@@ -1,0 +1,13 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "smarty/smarty": "dev-trunk"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Wispiring\\": "src/"
+        }
+    }
+
+}
